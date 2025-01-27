@@ -28,3 +28,7 @@
 # for i in score:
 #     total += (i / maxi) * 100
 # print(total / sub_n)
+
+# 2609번
+maxi_commit = 0
+mini_common_multi
